@@ -1,0 +1,5 @@
+above, brown-grey
+below, pale
+face, striking black 
+face, yellow
+horn, black

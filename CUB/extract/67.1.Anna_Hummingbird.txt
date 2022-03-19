@@ -1,0 +1,18 @@
+back, iridescent bronze-green
+flank, green
+chest, pale grey
+belly, pale grey
+crown, dull brown
+entirety, gray
+entirety, dark
+gorget, iridescent red
+crown, red
+crown, dull green
+throat, grey
+tip, white
+chest, red 
+chest, iridescence grey
+belly, red 
+belly, iridescence grey
+tail, dark
+chin, black

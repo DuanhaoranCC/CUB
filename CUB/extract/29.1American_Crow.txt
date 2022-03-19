@@ -1,0 +1,5 @@
+entirety, black
+feather, iridescent
+feather, iridescent black
+bill, black 
+feet, black 

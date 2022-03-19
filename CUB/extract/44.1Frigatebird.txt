@@ -1,0 +1,8 @@
+feather, black
+belly, white 
+gular pouch, red 
+neck, red
+underpart, white
+underpart, white marking
+underpart, marking
+feather, dark

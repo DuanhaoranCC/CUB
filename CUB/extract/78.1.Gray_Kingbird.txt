@@ -1,0 +1,17 @@
+egg, cream
+egg, reddish-brown marking
+egg, reddish-brown
+egg, marking
+above, gray
+wing, brownish
+tail, brownish
+below, white
+head, yellow streak
+head, yellow
+head, streak
+eye, dusky
+bill, dark
+wing, rufous
+rump, rufous
+tail, rufous
+entirety, gray

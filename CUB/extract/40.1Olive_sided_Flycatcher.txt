@@ -1,0 +1,5 @@
+face, dark olive 
+upperpart, dark olive 
+flank, dark olive
+underpart, light 
+bill, dark 

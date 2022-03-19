@@ -1,0 +1,43 @@
+body, greyish-brown
+breast, white patch
+breast, white
+breast, patch
+belly, white patch
+belly, white
+belly, patch
+crest, light reddish-brown
+eye, yellow
+eye, brown
+crest, white spot
+crest, white
+crest, spot
+head, black 
+head, white marking
+head, white
+head, marking
+neck, black
+neck, white marking
+neck, white
+neck, marking
+breast, black
+breast, white marking
+breast, white
+breast, marking
+flank, reddish-brown 
+flank, chestnut
+breast, white
+below, white
+crest, white streak
+crest, streak
+feather, white streak
+feather, white
+feather, streak
+back, white steark
+back, streak
+back, white
+neck, grey-brown
+above, grey-brown
+above, black
+back, dark
+feather, white
+eye, pale

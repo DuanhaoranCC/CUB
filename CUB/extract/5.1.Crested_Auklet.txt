@@ -1,0 +1,19 @@
+feather, colorful
+bill, reddish orange
+bill, yellow
+iris, yellowish white
+feather, white
+claw, black
+body, dark
+body, sooty grey
+wing, black
+wing, dark
+wing, sooty grey
+tail, dark
+tail, sooty grey
+leg, grey 
+feet, grey
+feather, black 
+bill, bright orange 
+bill, dull yellow
+bill, dull brownish yellow

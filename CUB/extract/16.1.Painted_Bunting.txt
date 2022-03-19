@@ -1,0 +1,12 @@
+feather, bright
+head, dark blue
+back, green
+rump, red 
+underpart, red 
+feather, green 
+feather, yellow green
+entirety, brightly green
+egg, gray white
+egg, brown
+egg, brown spot
+egg, spot

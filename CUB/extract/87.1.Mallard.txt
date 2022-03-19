@@ -1,0 +1,52 @@
+head, green
+wing, grey
+belly, grey
+feather, brown-speckled
+feather, white-bordered 
+feather, black speculum
+feather, iridescent blue
+head, bottle-green
+head, white streak
+head, streak
+breast, purple-tinged 
+breast, brown
+wing, grey 
+wing, brown 
+belly, pale grey
+entirety, black
+tail, dark
+tail, white
+bill, yellowish 
+bill, orange 
+bill, black
+bill, dark
+bill, black 
+bill, orange
+feather, buff 
+feather, dark brown
+face, buff
+eyebrow, buff
+throat, buff
+neck, buff
+crown, dark
+neck, dark
+feather, iridescent purple 
+feather, blue speculum
+feather fringe, white
+below, yellow
+face, yellow
+back, black
+back, yellow spot
+back, yellow
+back, spot
+leg, black
+bill, black
+feather, purple speculum
+bill, yellow
+bill, black 
+bill, orange
+feather, reddish-brown
+feather, brown
+bill, orange-lined
+belly, white
+wing, white

@@ -1,0 +1,5 @@
+feather, white
+eye, white
+bill, white
+feather, dark
+feather, paler

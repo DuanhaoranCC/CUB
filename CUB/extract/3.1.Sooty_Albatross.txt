@@ -1,0 +1,10 @@
+entirety, sooty-brown
+head, darker
+eye, white
+bill, black
+bill, orange
+bill, yellow
+bill, black
+sulcus, orange
+sulcus, yellow
+feather, paler 

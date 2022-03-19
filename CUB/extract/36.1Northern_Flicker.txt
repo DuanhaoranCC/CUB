@@ -1,0 +1,22 @@
+wing, brown
+back, brown
+wing, black streak
+back, black streak
+wing, streak
+back, streak
+entirety, black
+entirety, black patch
+entirety, patch
+breast, beige
+belly, beige
+breast, black spot
+breast, black
+breast, spot
+beak, black
+beak, red stripe
+beak, black stripe
+beak, red
+beak, stripe
+tail, dark
+rump, white 
+egg, pure white

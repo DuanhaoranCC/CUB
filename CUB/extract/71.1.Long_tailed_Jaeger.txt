@@ -1,0 +1,6 @@
+back, grey
+wing, dark
+feather, dark
+cap, black
+shade, grey
+egg, olive-brown

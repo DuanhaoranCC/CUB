@@ -1,0 +1,14 @@
+tail, brown
+tail, black
+tail, white
+bill, black
+mandible, yellow
+upperpart, brown
+head, brown 
+orbit, yellow ring 
+orbit, yellow 
+orbit, ring
+underpart, buff
+face, black
+face, black marking
+face, marking

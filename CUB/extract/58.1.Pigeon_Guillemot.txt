@@ -1,0 +1,13 @@
+entirety, black
+body, black
+wing, white spot
+wing, white
+wing, spot
+wing, black
+bill, dark
+leg, red
+feet, red
+above, grey
+above, black
+below, white
+

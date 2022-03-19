@@ -1,0 +1,22 @@
+head, blue
+head, black
+wing, green
+tail, bluish-green
+bill, black
+eye,yellow ring
+eye, brown ring
+eye,yellow
+eye, brown
+eye, ring
+leg, dark
+feather, yellowish-white
+face, blue
+nape, blue
+breast, bright yellow
+breast, pale
+below, bright yellow
+below, pale
+above, green
+iris, dark brownish
+iris, bright yellow
+entirety, green

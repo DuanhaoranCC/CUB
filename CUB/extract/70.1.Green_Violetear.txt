@@ -1,0 +1,13 @@
+bill, black
+above, shining green
+neck, glittering violet 
+belly, shining green
+throat, glittering green
+chest, glittering green
+tail, metallic blue-green
+feather, bronzy
+tail, black streak
+tail, black
+tail, streak
+egg, white
+entirety, green

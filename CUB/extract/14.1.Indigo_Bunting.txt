@@ -1,0 +1,26 @@
+entirety, vibrant blue
+entirety, brown
+feather, deep blue
+crown, darker
+crown, purple
+wing, black
+wing, blue
+tail, black
+tail, blue
+feather, blue feathers
+upperpart, dark brown
+upperpart, lighter brown
+below, dark
+shoulder, blue
+underside, dark streak
+underside, dark
+underside, streak
+upperpart, brownish-black
+below, light blue
+bill, light brown
+bill, blue
+feet, black
+feet, gray
+leg, black
+leg, gray
+egg, white
