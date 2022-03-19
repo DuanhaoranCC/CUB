@@ -42,9 +42,11 @@ for index, i in enumerate(os.listdir(os.path.join(path, "extract"))):
         txt = f.read()
     for j in txt.split('\n'):
         if len(j.split(',')) == 2:
+            # src:edge, class_label and dst is node pair.
             src, dst = j.split(',')
 
             relation[src.strip()].append([class_A[class_label], class_B[dst.strip().replace('-', ' ')]])
+            # reverse edge
             relation2[src.strip()].append([class_B[dst.strip().replace('-', ' ')], class_A[class_label]])
 
 
