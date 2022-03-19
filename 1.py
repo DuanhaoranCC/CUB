@@ -55,8 +55,8 @@ data['B'].x = torch.rand(430,768)
 for i in relation:
     data['A', i, 'B'].edge_index = torch.tensor(np.array(relation[i]), dtype=torch.long).t().contiguous()
     data['B', i, 'A'].edge_index = torch.tensor(np.array(relation2[i]), dtype=torch.long).t().contiguous()
-    data['A', i, 'B'].edge_attr = torch.rand(data['A', i, 'B'].edge_index.size(1), 768)
-    data['B', i, 'A'].edge_attr = torch.rand(data['A', i, 'B'].edge_index.size(1), 768)
+    data['A', i, 'B'].edge_attr = torch.rand(np.array(relation[i])[1], 768)
+    data['B', i, 'A'].edge_attr = torch.rand(np.array(relation[i])[1], 768)
 
 
 print(data)
