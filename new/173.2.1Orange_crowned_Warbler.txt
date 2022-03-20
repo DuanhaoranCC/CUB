@@ -1,8 +1,0 @@
-entirety, bright
-crown, orange
-crown, patch
-crown, orange patch
-upperpart, olive grey
-upperpart, olive
-upperpart, grey
-underpart, yellowish

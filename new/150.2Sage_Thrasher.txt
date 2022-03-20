@@ -1,8 +1,0 @@
-underpart, streak
-underpart, dark
-underpart, dark streak
-underpart, white
-upperpart, pale
-upperpart, grey
-upperpart, brown
-eye, yellow

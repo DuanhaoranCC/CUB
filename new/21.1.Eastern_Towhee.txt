@@ -1,9 +1,0 @@
-side, rufous
-belly, white 
-tail, dark
-tail, white
-eye, red
-head, dark
-entirety, brown
-body, brown 
-tail, brown

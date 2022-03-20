@@ -1,9 +1,0 @@
-entirety, brown
-entirety, grey
-entirety, black
-entirety, white
-belly, white
-tail, brown
-crown, dark
-crown, brown
-face, light brown

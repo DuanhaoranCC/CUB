@@ -1,2 +1,0 @@
-head, blue
-upperpart, greenish blue

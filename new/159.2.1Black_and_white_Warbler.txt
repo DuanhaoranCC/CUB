@@ -1,7 +1,0 @@
-entirety, black streak
-entirety, white streak
-entirety, white
-entirety, black
-entirety, streak
-wingbar, white
-feather, dull

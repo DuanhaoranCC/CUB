@@ -1,6 +1,0 @@
-above, grey
-above, brown 
-below, pale
-face, black 
-face, yellow
-horn, black

@@ -1,7 +1,0 @@
-underpart, yellow
-eye, dark
-crown, grey
-eye, streak
-eye, dark streak
-eye, white
-eye, white streak

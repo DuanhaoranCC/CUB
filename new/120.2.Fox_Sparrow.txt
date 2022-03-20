@@ -1,4 +1,0 @@
-egg, pale
-egg, green
-egg, greenish white
-entirety, reddish brown

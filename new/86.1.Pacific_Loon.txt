@@ -1,7 +1,0 @@
-head, grey
-throat, black
-below, white
-below, black
-foreneck, white
-bill, grey
-bill,  whitish
