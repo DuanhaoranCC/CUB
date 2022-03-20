@@ -1,0 +1,11 @@
+head, bright blue
+back, bright blue
+wingbar, white
+breast, light rusty 
+belly, white 
+entirety, brown
+above, gray
+wingbar, pale
+egg, pale blue
+egg, blue
+egg, pale

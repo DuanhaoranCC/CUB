@@ -1,0 +1,16 @@
+feather, deep blue 
+feather, bluish gray
+feather, white marking
+feather, white
+feather, marking
+neck, white streak 
+neck, white
+neck, streak
+belly, rufous
+breast, bluish gray
+breast, white streak
+breast, white
+breast, streak
+belly, white streak
+belly, white
+belly, streak

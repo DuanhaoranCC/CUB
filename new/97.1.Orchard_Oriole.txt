@@ -1,0 +1,17 @@
+bill, black
+mandible, blue
+mandible, gray
+feather, black
+below, chestnut
+shoulder, chestnut
+rump, chestnut
+feather, black
+breast, yellowish
+belly, yellowish
+breast, olive
+breast, green
+belly, olive
+belly, green
+wingbar,white
+bib, greenish yellow 
+bib, black

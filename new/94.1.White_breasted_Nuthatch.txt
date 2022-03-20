@@ -1,0 +1,35 @@
+above, pale 
+above, blue
+above, gray
+face, white
+below, white
+cap, black
+belly, chestnut
+back, black streak
+back, black
+back, streak
+wing , dark gray
+wing , pale
+wing,  gray
+wing, black
+wingbar, white
+tail, black
+feather, white streak
+feather, white
+feather, streak
+back, black streak
+back, black
+back, streak
+cap, gray
+cap, black
+breast, white
+eye, black
+below, reddish
+head, brown
+cap, brown
+neck, white spot
+neck, white
+neck, spot
+egg, creamy white 
+egg, reddish brown
+

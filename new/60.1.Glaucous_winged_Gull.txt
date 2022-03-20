@@ -1,0 +1,28 @@
+entirety, bluish green
+entirety, grey
+tail, white
+head, white
+neck, white
+breast, white
+belly, white
+wing, pearly gray
+back, pearly gray
+leg, pink
+beak, yellow
+beak, red spot
+beak, red
+beak, spot
+head, black spot
+head, black
+head, spot
+head, dusky
+nape, dusky
+head, dark spot
+head, dark
+nape, dark spot
+nape, dark
+nape, spot
+beak, brown
+beak, gray
+beak, black
+

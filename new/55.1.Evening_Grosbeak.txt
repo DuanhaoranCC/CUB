@@ -1,0 +1,13 @@
+tail, black
+wing, black
+bill, pale
+head, brown
+wing, white spot
+wing, white
+wing, spot
+forehead, bright yellow
+body, bright yellow
+below, olive brown
+below, brown
+below, olive
+below, grey

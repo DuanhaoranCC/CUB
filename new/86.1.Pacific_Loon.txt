@@ -1,0 +1,7 @@
+head, grey
+throat, black
+below, white
+below, black
+neck, white
+bill, grey
+bill,  whitish

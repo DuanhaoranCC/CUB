@@ -1,0 +1,21 @@
+head, pale grey
+head, pale
+head, grey
+eye, dark
+head, orange streak
+head, crown streak
+head, orange
+bill, grey
+back, greyish green
+wing, brown
+tail, brown 
+throat, pale grey
+throat, pale
+throat, grey
+breast, olive
+breast, yellow
+wing, pale buff
+egg, creamy
+egg, reddish brown marking
+egg, reddish brown
+egg, marking

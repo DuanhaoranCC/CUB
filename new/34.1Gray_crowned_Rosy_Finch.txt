@@ -1,0 +1,13 @@
+back, brown 
+breast, brown 
+wing, pink
+underpart, pink 
+throat, black 
+forehead, black 
+head, grey
+leg, black 
+head, grey
+body, black
+entirety, light brown
+face, brown
+

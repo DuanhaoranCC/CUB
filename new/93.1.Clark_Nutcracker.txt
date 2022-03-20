@@ -1,0 +1,13 @@
+feather, ashy grey
+feather, ashy
+feather, grey
+tail, ashy grey
+tail, ashy
+tail, grey
+wing, black
+wing, white
+tail, black
+tail, white
+bill, black
+leg, black
+feet, black

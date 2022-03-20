@@ -1,0 +1,16 @@
+upperpart, blue
+upperpart, blue gloss
+upperpart, green gloss
+underpart, greenish
+underpart, black 
+eye, dark
+eye, brown
+entirety, pale blue
+entirety, pale
+entirety, blue
+entirety, pale green
+entirety, green
+entirety, spot
+entirety, olive
+entirety, brown
+entirety, olive brown spot

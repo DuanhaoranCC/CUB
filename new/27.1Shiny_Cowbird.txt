@@ -1,0 +1,17 @@
+entirety, black
+egg, pale blue 
+egg, pale
+egg, blue 
+egg, green
+egg, dark
+egg, dark spot
+egg, spot
+entirety, iridescent purple blue gloss
+entirety, iridescent blue gloss
+entirety, iridescent purple gloss
+feather, dark brown
+feather, brown
+feather, dark
+underpart, pale
+eyebrow, pale 
+

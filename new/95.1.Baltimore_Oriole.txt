@@ -1,0 +1,15 @@
+wingbar, white
+shoulder, orange
+rump, orange
+entirety, deep flaming orange 
+entirety, yellowish orange
+feather, black
+breast, yellow 
+breast, orange
+breast, dull
+belly, yellow 
+belly, orange
+belly, dull
+egg, pale 
+egg, gray 
+egg, bluish white

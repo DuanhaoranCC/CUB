@@ -1,0 +1,14 @@
+wingbar, black
+wingbar, white
+head, deep yellowish 
+head, orange
+face, black
+throat, black
+below, orange
+back, black
+wing, black
+tail, black
+breast, yellowish
+belly, yellowish
+above, olive 
+above, green

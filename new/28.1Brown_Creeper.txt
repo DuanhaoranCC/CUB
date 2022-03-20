@@ -1,0 +1,5 @@
+underpart, white
+upperpart, brown
+upperpart, light spot
+upperpart, light
+upperpart, spot

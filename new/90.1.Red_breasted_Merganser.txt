@@ -1,0 +1,13 @@
+bill, red
+head, dark
+head, green sheen
+neck, white 
+breast, rusty
+back, black
+below, white
+head, rusty
+body, greyish
+wing, white spot
+wing, white
+wing, spot
+breast, red

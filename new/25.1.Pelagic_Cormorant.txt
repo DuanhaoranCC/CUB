@@ -1,0 +1,10 @@
+feather, white
+bill, black
+feet, black
+skin, dark
+leg, white patch
+leg, patch
+leg, white
+feet, black
+head, white
+neck, white

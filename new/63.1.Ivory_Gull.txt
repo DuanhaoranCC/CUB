@@ -1,0 +1,12 @@
+entirety, white
+entirety, grey
+bill, blue 
+bill, yellow
+leg, black
+face, dusky
+wing, black spot
+wing, black
+wing, spot
+tail, black spot
+tail, black
+tail, spot

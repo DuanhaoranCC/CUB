@@ -1,0 +1,14 @@
+tail, black
+wing, black
+wingbar, white
+head, rose red
+back, rose red
+bump, rose red
+head, olive yellow
+head, olive 
+head, yellow
+rump, olive yellow
+rump, yellow
+rump, olive
+back, grey
+below, grey
