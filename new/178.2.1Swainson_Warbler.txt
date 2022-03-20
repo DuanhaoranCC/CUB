@@ -1,0 +1,10 @@
+above, olive
+above, brown
+below, pale yellow
+below, pale white
+eyebrow, white
+head, brown
+egg, white
+egg, brown
+egg, spot
+egg, brown spot

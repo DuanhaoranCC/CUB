@@ -1,0 +1,19 @@
+head, gray
+back, green
+underpart, yellow
+underpart, white
+wing, greenish
+back, greenish
+belly, white
+throat, yellow
+breast, yellow
+orbit, white
+bill, black
+crown, brown
+crown, patch
+crown, brown patch
+feather, gray
+head, olive grey
+head, olive
+head, grey
+feather, brown

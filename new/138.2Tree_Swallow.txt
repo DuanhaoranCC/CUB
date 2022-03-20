@@ -1,0 +1,9 @@
+upperpart, iridescent blue
+upperpart, iridescent green
+underpart, white
+entirety, blue
+entirety, greenish
+upperpart, dull grey
+upperpart, dull brown
+breast, gray
+egg, white

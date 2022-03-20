@@ -1,0 +1,7 @@
+upperpart, brownish
+throat, white
+belly, white
+face, orange
+face, gray
+nape, gray
+crown, gray

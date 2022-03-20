@@ -1,0 +1,12 @@
+eyebrow, white
+underpart, cinnamon buff 
+feather, brown
+feather, black
+feather, black spot
+feather, white spot
+feather, white
+feather, spot
+neck, white
+chest, white
+tail, black
+tail, white

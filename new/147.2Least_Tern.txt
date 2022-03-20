@@ -1,0 +1,19 @@
+underpart, white
+entirety, pale
+entirety, gray
+cap, black
+head, black streak
+head, black
+head, streak
+forehead, white
+head, white
+bill, black
+bill, blackish
+bill, yellow
+feet, yellowish
+wing, black marking
+wing, black
+wing, marking
+wing, pale
+wing, gray
+tail, gray

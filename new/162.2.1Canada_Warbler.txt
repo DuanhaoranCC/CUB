@@ -1,0 +1,11 @@
+underpart, yellow
+underpart, blue grey
+underpart, blue
+underpart, grey
+leg, pink
+eye, ring
+eye, yellow
+eye, yellow ring
+forehead, black
+neck, black
+neck, gray

@@ -1,0 +1,19 @@
+upperpart, blue
+upperpart, steel blue
+underpart, white
+breast, dark
+tail, white spot
+tail, white
+tail, spot
+breast, blue
+face, pale rufous
+underpart, white
+skin, brown
+face, red
+tail, white
+feather, white
+egg, white
+egg, reddish spot
+egg, reddish
+egg, spot
+

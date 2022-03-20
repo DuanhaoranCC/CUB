@@ -1,0 +1,27 @@
+wing, bright green streak
+wing, bright green
+wing, streak
+throat, white
+cap, rufous
+upperpart, olive
+upperpart, green
+underpart, pale
+underpart, gray
+crown, rufous
+throat, white
+bill, gray
+wing, olive
+wing, yellow
+tail, olive
+tail, yellow
+wing, deep olive
+tail, deep olive
+wing, green
+breast, gray
+throat, white
+crown, rufous
+head, dark streak
+head, dark
+head, streak
+tail, green
+

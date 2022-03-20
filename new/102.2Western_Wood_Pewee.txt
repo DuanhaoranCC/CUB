@@ -1,0 +1,5 @@
+entirety, gray
+entirety, olive
+bill, dark
+bill, yellow
+entirety, black

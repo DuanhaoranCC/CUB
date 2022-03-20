@@ -1,0 +1,14 @@
+underpart, white
+iris, red
+crown, grey
+crown, black
+eye, blackish
+eye, streak
+eye, black streak
+eye, white
+eye, white streak
+leg, blue grey
+leg, blue
+leg, grey
+flank, yellowish
+iris, chestnut

@@ -1,0 +1,19 @@
+belly, white
+wingbar, white
+leg, dark
+eye, yellowish
+eye, streak
+eye, yellowish streak
+upperpart, olive brown
+upperpart, olive
+upperpart, brown
+upperpart, olive
+throat, bright yellow
+breast, bright yellow
+throat, pale yellow
+throat, yellow
+throat, pale
+breast, pale yellow
+breast, pale
+breast, yellow
+

@@ -1,0 +1,25 @@
+throat, yellow
+belly, yellow
+crown, black
+eye, yellow marking
+eye, yellow
+eye, marking
+eye, black marking
+eye, black
+beak, yellow marking
+beak, yellow
+beak, marking
+beak, black marking
+beak, black
+head, black
+egg, white
+egg, creamy
+egg, brown
+egg, spot
+egg, brown spot
+back, olive green
+back, olive
+back, green
+nape, olive green
+nape, olive
+nape, green

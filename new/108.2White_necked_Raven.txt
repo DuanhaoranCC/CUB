@@ -1,0 +1,7 @@
+bill, black
+bill, white
+feather, white
+entirety, white
+throat, faint purple gloss
+breast, faint purple gloss
+neck, faint purple gloss

@@ -1,0 +1,27 @@
+back, olive
+rump, olive
+feather, brownish black
+feather, brownish
+feather, black
+neck, slate gray
+crown, gray white
+crown, gray
+crown, white
+orbit, gray white
+orbit, gray
+orbit, white
+underpart, gray white
+underpart, white
+underpart, gray
+entirety, blue
+wing, white
+wing, spot
+wing, white spot
+above, grey brown 
+above, grey
+above, brown 
+tail, yellow
+egg, white
+egg, brown
+egg, spot
+egg, brown spot

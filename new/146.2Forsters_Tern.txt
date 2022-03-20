@@ -1,0 +1,12 @@
+upperpart, pale
+upperpart, grey
+underpart, white
+feet, red
+bill, red
+bill, black
+eye, black streak
+eye, black
+eye, streak
+tail, grey
+tail, white
+wing, pure white

@@ -1,0 +1,60 @@
+upperpart, light grey
+underpart, white
+underpart, light grey
+cap, black
+cap, white spot
+cap, white
+cap, spot
+feet, orange
+bill, red
+bill, black
+egg, dull
+upperpart, grey
+underpart, white
+tail, white
+rump, white
+wing, dark marking
+wing, dark
+wing, marking
+wing, pale
+wing, grey
+crown, brown
+nape, brown
+forehead, ginger
+crown, white
+nape, white
+forehead, white
+upperpart, ginger
+upperpart, brown
+upperpart, white
+tip, blackish
+face, white
+rump, greyish
+feather, grey
+wing, white
+wing, black streak
+wing, black
+wing, streak
+bill, orange
+feet, bright red
+entirety, bright red
+feet, dark
+feet, red
+entirety, dark
+entirety, red
+feather, pale
+upperpart, pale
+feather, white
+feather, pink
+head, white
+eye, dark
+face, white streak
+face, white
+face, streak
+feather, white
+forehead, white
+wing, white
+upperpart, grey
+back, ginger
+back, pale
+back, grey

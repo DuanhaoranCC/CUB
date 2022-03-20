@@ -1,0 +1,10 @@
+throat, white
+belly, white
+upperpart, brown
+underpart, white
+breast, brown
+bill, black
+feet, brown
+tip, rufous
+back, brown
+egg, white

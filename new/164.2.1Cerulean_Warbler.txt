@@ -1,0 +1,20 @@
+underpart, pale cerulean blue
+underpart, pale
+underpart, cerulean
+underpart, blue
+underpart, white
+neck, black
+back, black
+back, streak
+back, black streak
+flank, black
+flank, streak
+flank, black streak
+upperpart, greenish
+upperpart, pale cerulean blue
+upperpart, cerulean
+upperpart, pale
+upperpart, blue
+eye, streak
+eye, pale
+eye, pale streak

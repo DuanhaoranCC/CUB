@@ -1,0 +1,23 @@
+upperpart, brown
+upperpart, dark streak
+upperpart, dark
+upperpart, streak
+underpart, white
+underpart, dark streak
+underpart, dark
+underpart, streak
+breast, dark brown spot
+breast, dark brown
+breast, spot
+cap, brown
+tail, brown
+face, gray
+egg, brown
+egg, greenish white spot
+egg, greenish white
+egg, spot
+tail, gray
+face, brown
+face, yellowish spot
+face, yellowish
+face, spot

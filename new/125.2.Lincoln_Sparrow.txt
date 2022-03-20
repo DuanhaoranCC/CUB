@@ -1,0 +1,17 @@
+upperpart, olive
+upperpart, brown
+upperpart, dark streak
+upperpart, dark
+upperpart, streak
+belly, white
+throat, white
+cap, brown
+cap, grey streak
+cap, grey
+cap, streak
+wing, olive
+wing, brown
+face, brown streak
+face, brown
+face, streak
+face, gray

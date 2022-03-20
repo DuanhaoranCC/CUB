@@ -1,0 +1,21 @@
+back, brown
+back, dark streak
+back, streak
+back, dark 
+underpart, whitish
+breast, brown
+breast, blackish
+crown, whitish
+crown, yellow
+eyebrow, whitish
+eyebrow, yellow
+face, brown
+throat, white
+feather, blackish brown
+feather fringe, light brown
+feather fringe, white
+eye, dark
+upperpart, dark
+upperpart, grey
+entirety, dark
+entirety, rufous

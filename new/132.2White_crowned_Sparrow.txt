@@ -1,0 +1,16 @@
+upperpart, black streak
+upperpart, white streak
+upperpart, black
+upperpart, white
+face, grey
+wing, brown
+underpart, grey
+bill, pink
+bill, yellow
+throat, white
+egg, grey
+egg, brown marking
+egg, marking
+egg, brown
+egg, greenish blue
+entirety, white

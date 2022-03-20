@@ -1,0 +1,18 @@
+back, slate blue
+crown, yellow
+rump, yellow
+flank, yellow patch
+flank, yellow
+flank, patch
+tail, white
+breast, black streak
+breast, black
+breast, streak
+back, brown streak
+back, brown
+back, streak
+breast, brown streak
+breast, brown 
+breast, streak
+throat, white 
+orbit, white

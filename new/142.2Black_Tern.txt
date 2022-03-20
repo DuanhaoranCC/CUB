@@ -1,0 +1,29 @@
+entirety, black
+feather, dark
+feet, dark
+bill, black
+back, dark
+back, grey
+forehead, white
+head, black
+entirety, gray
+cap, black
+cap, blackish brown
+tail, light brownish grey
+face, white
+eye, dark patch
+eye, dark
+eye, patch
+breast, grayish brown streak
+breast, grayish brown
+breast, streak
+breast, white
+feather, black
+feather, grey
+feather fringe, pale
+upperpart, drab
+rump, brownish gray
+back, dark
+breast, dark patch
+breast, dark
+breast, patch

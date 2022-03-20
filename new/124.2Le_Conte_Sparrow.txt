@@ -1,0 +1,24 @@
+bill, gray
+face, yellow
+face, orange
+face, gray
+crown, dark 
+crown, brown
+crown, white streak
+crown, white
+crown, streak
+neck, chestnut streak
+neck, streak
+neck, chestnut
+back, brown streak
+back, streak
+back, brown
+back, beige streak 
+back, beige
+neck, lilac
+neck, gray
+breast, buff orange
+breast, buff yellow
+belly, white
+feet, brownish pink
+feather, dull brown
