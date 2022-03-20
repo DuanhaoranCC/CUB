@@ -1,0 +1,30 @@
+crown, brown
+eyebrow, white 
+bill, dark
+throat, light brown
+throat, light black
+throat, streak
+throat, light brown streak
+throat, light black streak
+throat, white
+breast, heavy streak
+breast, heavy 
+breast, streak
+flank, heavy streak
+flank, heavy
+flank, streak
+undertail, buff 
+back, brown
+underpart, buff
+flank, buff
+leg, bright pink
+eye, streak
+eye, black
+eye, black streak
+egg, creamy
+egg, buff
+egg, brown
+egg, gray
+egg, spot
+egg, brown spot
+egg, gray spot

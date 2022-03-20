@@ -1,0 +1,44 @@
+crown, brown
+rump, chestnut
+coverts, chestnut
+shoulder, rich brown
+coverts, rich brown
+coverts, white
+coverts, spot
+coverts, white spot
+tail, streak
+tail, brown
+tail, brown streak
+eyebrow, white
+above, black
+below, black
+ear, grayish black
+ear, grayish
+ear, black
+ear, spot
+ear, grayish black spot
+ear, grayish spot
+ear, black spot
+chin, grey
+throat, grey
+chest, buff
+flank, buff
+belly, buff
+coverts, grayish buff
+coverts, buff
+coverts, grayish
+iris, reddish brown
+iris, reddish
+iris, brown
+underpart, brown
+mandible, lemon
+mandible, pale
+upperpart, chestnut
+egg, white
+egg, creamy
+egg, reddish brown
+egg, reddish
+egg, brown
+egg, spot
+egg, reddish spot
+egg, brown spot

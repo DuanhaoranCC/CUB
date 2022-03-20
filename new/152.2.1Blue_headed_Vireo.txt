@@ -1,0 +1,25 @@
+head, blue grey
+head, blue
+head, grey
+wingbar, yellow
+upperpart, olive green
+upperpart, olive
+upperpart, green
+crown, deep blue grey
+crown, deep grey
+crown, deep blue
+entirety, yellow
+entirety, patch
+entirety, yellow patch
+crown, brownish grey
+crown, brownish
+crown, grey
+entirety, dull greenish
+entirety, dull
+entirety, greenish
+egg, creamy white
+egg, brown
+egg, brown spot
+egg, spot
+egg, black
+egg, black spot

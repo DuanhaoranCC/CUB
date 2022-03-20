@@ -1,0 +1,16 @@
+upperpart, olive brown
+upperpart, olive
+upperpart, brown
+underpart, light
+head, streak
+head, black
+head, light brown
+head, black streak
+head, light brown streak
+head, brownish
+head, brownish streak
+head, dusky marking
+head, dusky
+head, marking
+leg, pink
+wingbar, cinnamon

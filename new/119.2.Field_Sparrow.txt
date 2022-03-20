@@ -1,0 +1,21 @@
+orbit, white
+bill, pink
+head, grey
+upperpart, brown streak
+upperpart, streak
+upperpart, brown
+upperpart, black
+upperpart, buff
+belly, buff
+belly, white
+upperpart, brown
+tail, dark
+tail, brown
+face, grey
+crown, rusty
+orbit, white
+eye, rusty marking
+eye, rusty
+eye, marking
+entirety, grey
+entirety, rufous

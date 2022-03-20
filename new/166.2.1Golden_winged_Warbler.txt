@@ -1,0 +1,22 @@
+throat, black
+wing, patch
+ear, black
+ear, patch
+ear, black patch
+crown, white
+crown, yellow
+entirety, light grey
+tail, white
+underpart, grayish white
+underpart, grayish
+underpart, white
+above, gray
+below, yellow
+eye, black
+eye, streak
+eye, black streak
+wingbar, white
+above, green
+above, yellow
+wingbar, yellow
+wing, golden

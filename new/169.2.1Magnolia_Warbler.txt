@@ -1,0 +1,21 @@
+back, white
+back, gray
+back, black
+flank, yellow
+belly, yellow
+belly, black
+belly, streak
+belly, black streak
+forehead, white
+forehead, gray
+forehead, black
+beak, white
+beak, gray
+beak, black
+tail, black
+underpart, white
+underpart, streak
+underpart, white streak
+wingbar, white
+wingbar, white patch
+wingbar, patch

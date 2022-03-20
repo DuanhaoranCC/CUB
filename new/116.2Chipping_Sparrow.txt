@@ -1,0 +1,13 @@
+head, gray
+cap, reddish
+cap, brown
+underpart, gray
+upperpart, feruginous
+eyebrow, white
+face, black streak
+face, black
+face, streak
+eyebrow, dark
+cap, brownish
+eyebrow, dusky
+

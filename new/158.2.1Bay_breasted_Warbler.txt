@@ -1,0 +1,19 @@
+back, grey
+face, black
+crown, chestnut
+flank, chestnut
+throat, chestnut
+neck, bright yellow patch
+neck, patch
+neck, bright yellow
+underpart, white
+wingbar, white
+above, greyish
+below, white 
+flank, marking
+flank, chestnut marking
+flank, chestnut 
+crown, grey
+head, greenish
+upperpart, greenish
+breast, yellowish

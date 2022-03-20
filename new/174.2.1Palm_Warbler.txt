@@ -1,0 +1,9 @@
+upperpart, brownish olive
+upperpart, brownish
+upperpart, olive
+breast, bold rufous
+underpart, yellow
+flank, bold rufous streak
+flank, bold rufous
+flank, streak
+below, yellow

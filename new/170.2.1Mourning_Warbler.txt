@@ -1,0 +1,15 @@
+underpart, yellow
+underpart, olive green
+underpart, olive
+underpart, green
+leg, pink
+hood, grey
+throat, black
+throat, patch
+throat, black patch
+breast, black
+beast, patch
+breast, black patch
+head, grey brown
+head, grey
+head, brown

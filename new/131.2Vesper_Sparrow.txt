@@ -1,0 +1,9 @@
+upperpart, light brown
+underpart, light
+entirety, dark streak
+entirety, dark
+entirety, streak
+orbit, white
+tail, dark
+tail, brown
+feather, white

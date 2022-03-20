@@ -1,0 +1,18 @@
+cap, rusty
+underpart, grey
+breast, dark spot
+breast, spot
+breast, dark
+back, rusty
+back, light streak
+back, light
+back, streak
+wing, brown
+wing, streak
+wing, white
+wing, white streak
+face, rusty streak
+face, rusty
+face, streak
+face, grey
+flank, light brown

@@ -1,0 +1,17 @@
+back, olive
+wing, blue grey
+wing, blue
+wing, grey
+tail, blue grey
+tail, blue
+tail, grey
+underpart, yellow
+leg, black
+head, bright orange yellow
+head, bright orange
+head, bright yellow
+head, yellow
+tail, white
+tail, dark
+entirety, gloden
+below, white

@@ -1,0 +1,12 @@
+entirety, black
+entirety, brown
+entirety, white streak
+entirety, streak
+entirety, white
+bill, dark
+bill, white
+skin, blue
+eye, white
+eye, white crescent
+eye, crescent
+egg, white

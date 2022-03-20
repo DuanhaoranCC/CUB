@@ -1,0 +1,33 @@
+feather, grey
+feather, white
+beak, red
+beak, orangish
+feet, red
+feet, orangish
+forehead, white
+nape, black
+crown, black
+face, white
+scapular, fringed brown
+tip, white
+feather fringe, white
+wing, grey
+beak, dark
+beak, red
+upperpart, grey
+nape, black
+upperwing, pale
+upperwing, grey
+tail, white
+underpart, pale
+underpart, grey
+crown, white
+bill, dark
+bill, black
+feet, black
+feather fringe, dark
+wing, dark streak
+wing, dark
+wing, streak
+crown, white
+

@@ -1,0 +1,20 @@
+tip, pale
+entirety, crimson
+entirety, red
+wing, black
+tail, black
+entirety, deeply red
+wing, yellow
+wing, olive
+tail, yellow
+tail, olive
+crown, olive
+entirety, yellowish
+entirety, white streak
+entirety, white
+entirety, streak
+entirety, scarlet
+egg, light blue
+egg, whitish
+egg, light greenish
+egg, whitish

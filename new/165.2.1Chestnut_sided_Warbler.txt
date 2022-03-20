@@ -1,0 +1,19 @@
+entirety, yellow
+back, gray
+face, white
+eye, black
+eye, streak
+eye, black streak
+crown, greenish
+flank, chestnut
+wingbar, white
+underpart, white
+flank, chestnut
+head, greenish
+upperpart, greenish
+breast, pale grey
+egg, spot
+egg, white
+egg, brown
+egg, white spot
+egg, brown spot

@@ -1,0 +1,14 @@
+upperpart, brown
+breast, light brown
+belly, white
+throat, white
+crown, pale streak
+crown, streak
+crown, pale
+crown, dark streak
+crown, dark
+crown, streak
+face, olive
+neck, olive
+wing, rust
+tail, dark

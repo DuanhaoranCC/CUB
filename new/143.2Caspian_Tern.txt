@@ -1,0 +1,31 @@
+feet, black
+bill, red
+bill, orange
+bill, black
+tip, black
+head, white
+cap, black
+neck, white
+belly, white
+tail, white
+feather, dark
+wing, pale
+wing, grey
+back, pale
+back, grey
+underpart, pale
+wing, balck
+forehead, white streak
+forehead, streak
+forehead, white
+egg, pale
+egg, blue
+egg, green
+egg, brown spot
+egg, brown
+egg, spot
+feather, pale
+feather, creamy
+feather, dark
+feather, grey
+feather, brown

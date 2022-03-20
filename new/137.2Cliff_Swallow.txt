@@ -1,0 +1,14 @@
+back, iridescent blue
+crown, iridescent blue
+wing, brown
+tail, brown
+rump, buff
+nape, white
+forehead, white
+face, red
+underpart, white
+upperpart, brown
+underpart, whitish
+face, dark
+rump, cinnamon
+forehead, cinnamon

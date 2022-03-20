@@ -1,0 +1,34 @@
+throat, white
+throat, white marking
+throat, marking
+crown, dark
+crown, tan streak
+crown, white streak
+crown, tan
+crown, white
+crown, streak
+crown, black
+eyebrow, white
+eyebrow, black
+auricula, gray
+crown, dark brown
+eyebrow, tan
+eyebrow, brown
+auricula, grau brown
+auricula, light brown
+eye, dark
+throat, white
+bill, gray
+breast, dark streak
+breast, tan streak
+breast, gray streak
+breast, streak
+breast, dark
+breast, tan
+breast, gray
+belly, light gray
+wing, white
+egg, blue
+egg, green
+egg, white
+entirety, white

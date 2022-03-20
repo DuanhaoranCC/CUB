@@ -1,0 +1,26 @@
+entirety, brown
+upperpart, brown
+underpart, white
+underpart, dark streak
+underpart, streak
+underpart, dark
+upperpart, bright reddish brown
+underpart, buffy
+breast, whitish
+tail, rufous
+eye, brilliant yellow
+bill, brownish
+iris, olive
+upperpart, cinnamon
+wingbar, white
+breast, dark spot
+breast, dark
+breast, spot
+head, gray
+neck, gray
+eye, dark
+egg, blueish
+egg, greenish
+egg, reddish brown spot
+egg, reddish brown
+egg, spot

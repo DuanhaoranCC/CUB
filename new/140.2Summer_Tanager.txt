@@ -1,0 +1,8 @@
+entirety, rose red
+bill, dark
+underpart, orangish
+upperpart, olive
+wing, olive
+wing, brown
+tail, olive
+tail, brown
