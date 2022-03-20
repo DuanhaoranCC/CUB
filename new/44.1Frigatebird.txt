@@ -1,7 +1,0 @@
-feather, black
-belly, white 
-neck, red
-underpart, white
-underpart, white marking
-underpart, marking
-feather, dark

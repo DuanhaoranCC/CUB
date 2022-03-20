@@ -1,6 +1,0 @@
-eye, pale yellow 
-eye, pale
-eye, yellow 
-feather, black
-feather, grey
-head, iridescent green 

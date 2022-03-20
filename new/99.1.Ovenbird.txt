@@ -1,5 +1,0 @@
-egg, pale blue 
-egg, pale
-egg, blue 
-egg, greenish 
-egg, white

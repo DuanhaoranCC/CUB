@@ -1,7 +1,0 @@
-neck, black 
-feather, golden
-head, black
-neck, black 
-ear, yellow 
-entirety, white
-cap, black 

@@ -1,7 +1,0 @@
-back, grey
-wing, dark
-feather, dark
-cap, black
-egg, olive brown
-egg, olive
-egg, brown

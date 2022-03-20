@@ -1,8 +1,0 @@
-head, black
-ear, brown
-neck, deep red
-eye, scarlet
-bill, black
-bill, white
-entirety, white
-cap, black

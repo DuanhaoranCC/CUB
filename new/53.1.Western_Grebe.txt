@@ -1,9 +1,0 @@
-entirety, black
-entirety, white
-eye, red
-orbit, black
-bill, greenish yellow
-orbit, white
-bill, bright yellow
-entirety, grey
-entirety, white
