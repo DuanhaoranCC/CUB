@@ -1,0 +1,17 @@
+feather, dark 
+feather, black
+undertail, white
+coverts, white
+beak, white
+eye, white
+beak, white marking
+eye, white marking
+beak, marking
+eye, marking
+beak, dark
+feet, dark
+feet, black
+egg, dull white
+egg, reddish brown
+egg, reddish brown spot
+egg, spot

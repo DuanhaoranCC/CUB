@@ -1,0 +1,9 @@
+breast, buff
+belly, whitish
+feet, dark
+bill, dark
+underpart, black streak
+underpart, black
+underpart, streak
+underpart, white
+feet, reddish

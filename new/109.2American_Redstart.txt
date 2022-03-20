@@ -1,0 +1,19 @@
+tail, red
+wing, orange red patch
+wing, orange red
+wing, patch
+tail, orange patch
+tail, patch
+tail, orange
+breast, orange
+underpart, white
+entirety, green
+head, grey
+tail, black
+feather, orange patch
+feather, orange
+feather, patch
+feather, yellow patch
+feather, yellow
+throat, yellow
+tail, yellow

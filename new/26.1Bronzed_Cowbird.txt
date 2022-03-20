@@ -1,0 +1,9 @@
+feather, black
+feather, green bronze
+feather, bronze
+feather, green 
+eye, red
+entirety, dull black
+belly, brown
+eye, brown
+feather fringe, grey 

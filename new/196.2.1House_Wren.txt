@@ -1,0 +1,15 @@
+underpart, brown
+underpart, buff
+underpart, pale grey
+underpart, pale
+underpart, grey
+underpart, pure white
+wing, blackish
+tail, blackish
+mandible, yellowish
+mandible, pale grey
+mandible, pale
+mandible, grey
+mandible, blackish
+leg, pinkish
+leg, grey

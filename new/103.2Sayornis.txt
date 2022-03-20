@@ -1,0 +1,8 @@
+throat, white
+breast, gray
+underpart, buffish
+underpart, buff streak
+underpart, buff
+underpart, streak
+bill, dark
+feather, buff

@@ -1,0 +1,8 @@
+bill, yellow
+bill, red
+bill, black
+face, white
+face, dark streak
+face, dark
+face, streak
+feet, red

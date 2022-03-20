@@ -1,0 +1,10 @@
+above, grey brown
+above, grey
+above, brown
+below, white
+eyebrow, white
+tail, white
+egg, white
+egg, brown
+egg, spot
+egg, brown spot

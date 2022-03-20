@@ -1,0 +1,8 @@
+entirety, black
+head, yellow 
+breast, yellow 
+wing, white patch
+wing, white 
+wing, patch
+entirety, brown
+throat, dull yellow 

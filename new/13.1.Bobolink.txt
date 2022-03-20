@@ -1,0 +1,13 @@
+entirety, black
+nape, creamy
+scapular, white 
+entirety, light brown
+back, black streak
+back, black
+back, streak
+flank, black streak
+flank, black
+flank, streak
+entirety, dark
+wing, dark
+tail, dark 

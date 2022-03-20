@@ -1,0 +1,13 @@
+entirety, slate
+entirety, plain
+entirety, gray 
+head, dark
+undertail, rusty
+coverts, rusty
+undertail, white
+coverts, white
+remiges, black 
+rectrices, black 
+leg, blackish 
+feet, blackish
+egg, light blue

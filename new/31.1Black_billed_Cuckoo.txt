@@ -1,0 +1,10 @@
+tail, brown
+bill, black
+upperpart, brown
+head, brown 
+underpart, white
+orbit, yellow ring
+orbit, yellow
+orbit, ring
+feather, white
+skin, black

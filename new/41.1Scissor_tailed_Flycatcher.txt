@@ -1,0 +1,18 @@
+head, pale gray 
+head, gray 
+head, pale
+upperpart, pale gray 
+upperpart, pale
+upperpart, gray 
+underpart, light 
+flank, salmon pink 
+undertail, salmon pink 
+coverts, salmon pink 
+wing, gray 
+wing, dark
+feather, red
+underwing, red patch
+underwing, red 
+underwing, patch
+tail, black
+undertail, white
