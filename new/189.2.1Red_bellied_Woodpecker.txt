@@ -1,0 +1,27 @@
+feather, red
+head, red
+face, light gray
+underpart, light gray
+back, black streak
+back, black
+back, streak
+back, white streak
+back, white 
+wing, black streak
+wing, black
+wing, streak
+wing, white streak
+wing, white 
+tail, black streak
+tail, black
+tail, streak
+tail, white streak
+tail, white 
+cap, red
+nape, red
+nape, patch
+nape, red patch
+bill, red
+bill, patch
+bill, red patch
+belly, reddish

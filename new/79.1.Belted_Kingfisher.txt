@@ -1,0 +1,25 @@
+bill, black 
+bill,grey
+head, slate blue
+head, slate
+head, blue
+head, white streak
+head, white
+head, streak
+breast, blue streak
+breast, blue
+breast, streak
+breast, white
+back, slate blue 
+back, slate
+back, blue
+wing, slate blue
+wing, slate
+wing, blue
+feather , black
+feather, white spot
+feather, spot
+feather, white
+feather, rufous streak
+feather, rufous
+feather, streak

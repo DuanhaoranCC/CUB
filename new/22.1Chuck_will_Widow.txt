@@ -1,0 +1,17 @@
+underpart, brownish 
+throat, buff 
+feather, reddish brown
+feather, black
+head, brown
+head, white
+chest, brown
+chest, white
+feather, white patch
+feather, white 
+feather, patch
+tail, white
+egg, pink
+egg, lavender
+egg, brown
+egg, brown spot
+egg, spot

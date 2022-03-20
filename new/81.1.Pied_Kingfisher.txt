@@ -1,0 +1,14 @@
+feather, black 
+feather, white
+crest, black 
+crest, white
+entirety, white 
+entirety, black marking
+entirety, black
+entirety, marking
+eyebrow, white
+breast, black streak
+breast, black
+breast, streak
+entirety, dark
+egg, white

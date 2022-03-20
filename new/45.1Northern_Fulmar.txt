@@ -1,0 +1,14 @@
+head, white 
+body, white 
+wing, gray
+tail, gray 
+entirety, gray
+entirety, grey
+entirety, white
+bill, pale yellow 
+leg, bluish
+entirety, light
+entirety, dark
+below, dark
+upperwing, pale
+egg, white 

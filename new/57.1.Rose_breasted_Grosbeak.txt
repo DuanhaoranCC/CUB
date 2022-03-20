@@ -1,0 +1,60 @@
+primary, white
+beak, dusky 
+beak, horn
+feet, dark
+eye, dark
+patch, bright rose red
+patch, white
+wing, rose red 
+head, black
+wing, black
+back, black
+tail, black
+below, white
+rump, white
+below, white
+eyebrow, white
+face, white
+feather fringe, brown
+feather fringe, white
+feather, white
+above, dark
+above, grey brown
+above, brown
+above, grey
+head, buff streak
+head, streak
+below, black streak
+below, white
+below, streak
+wing, yellowish
+wing, white patch
+wing, white
+wing, patch
+wing, pink
+throat, pinkish buff 
+breast, pinkish buff 
+wing, brown
+below, slightly dark marking
+below, slightly brown marking
+below, slightly dark
+below, slightly brown
+below, marking
+bill, pinkish
+entirety, purple
+head, paler
+head, yellowish
+wing, paler
+wing, yellowish
+egg, pale blue spot
+egg, green spot
+egg, purplish spot
+egg, brownish red spot
+egg, pale blue
+egg, pale
+egg, blue
+egg, green
+egg, purplish
+egg, brownish red
+egg, spot
+breast, rose

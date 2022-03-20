@@ -1,0 +1,10 @@
+upperpart, greyish olive 
+wing, dark
+tail, dark
+underpart, whitish 
+eye, white
+eye, white ring
+eye, ring
+wingbar, white
+breast, grey
+belly, yellow

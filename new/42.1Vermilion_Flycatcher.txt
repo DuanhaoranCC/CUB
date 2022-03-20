@@ -1,0 +1,7 @@
+entirety, bright red
+feather, brown
+feather, dark 
+belly, peach
+upperside, gray 
+upperside, dark
+

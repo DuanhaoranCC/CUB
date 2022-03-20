@@ -1,0 +1,4 @@
+feather, white
+throat, blue
+throat, blue patch
+throat, patch

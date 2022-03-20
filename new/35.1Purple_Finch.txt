@@ -1,0 +1,23 @@
+feather, dark
+feather, dark greenish
+feather, greenish
+tail, brown
+wing, brown
+head, raspberry
+head, red 
+breast, raspberry
+breast, red 
+back, red 
+back, raspberry
+rump, raspberry
+rump, red 
+upperpart, light brown
+underpart, white 
+entirety, dark streak
+entirety, brown streak
+entirety, streak
+entirety, dark
+entirety, brown
+face, white
+face, white streak
+face, streak

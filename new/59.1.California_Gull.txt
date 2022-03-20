@@ -1,0 +1,12 @@
+bill, yellow
+bill, black streak
+bill, black
+bill, streak
+leg, yellow
+eye, brown
+body, white
+back, grey
+upperwing, grey
+primary, black
+tip, white
+feather, brown

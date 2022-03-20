@@ -1,0 +1,7 @@
+wing, gray
+head, white
+body, white
+bill, yellow
+bill, red spot
+bill, red
+bill, spot

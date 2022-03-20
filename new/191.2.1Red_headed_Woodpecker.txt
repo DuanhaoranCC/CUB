@@ -1,0 +1,11 @@
+entirety, red
+back, black
+tail, black
+head, red
+neck, red
+wing, black
+underpart, white
+wing,white
+head, grey
+neck, bright red
+head, bright red

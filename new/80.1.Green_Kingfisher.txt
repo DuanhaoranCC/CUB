@@ -1,0 +1,27 @@
+above, oily green
+neck, white streak
+neck, white
+neck, streak
+wing, white marking
+wing, white
+wing, marking
+tail, white marking
+tail, white
+tail, marking
+below, white
+breast, chestnut streak
+breast, chestnut
+breast, streak
+flank, green spot
+flank, green
+flank, spot
+below, buff white 
+below, buff
+below, white 
+chest, green streak
+chest, green
+chest, streak
+belly, green spot
+belly, green
+belly, spot
+entirety, green

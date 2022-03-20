@@ -1,0 +1,15 @@
+entirety, black
+crest, red
+throat, streak
+throat, white
+throat, white streak
+feather, white
+bill, streak
+bill, red
+bill, red streak
+throat, red
+throat, red streak
+bill, black
+bill, black streak
+throat, black
+throat, black streak

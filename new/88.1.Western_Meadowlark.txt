@@ -1,0 +1,11 @@
+below, yellow
+breast, black
+flank, white
+flank, black
+above, brown
+streak, black
+head, black streak
+head, light brown streak
+head, black
+head, light brown
+head, streak
