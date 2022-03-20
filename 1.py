@@ -7,7 +7,7 @@ from torch_geometric.data import HeteroData
 import torch_geometric.transforms as T
 from torch_geometric.nn import SAGEConv, to_hetero
 
-path = ".//new/"
+path = "./new/"
 
 data = HeteroData()
 
