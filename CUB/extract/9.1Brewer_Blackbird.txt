@@ -1,5 +1,0 @@
-feather, black
-feather, dark grey
-eye, bright yellow 
-eye, dark 
-head, iridescent purple 

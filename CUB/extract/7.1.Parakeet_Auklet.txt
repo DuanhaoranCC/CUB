@@ -1,5 +1,0 @@
-bill, orange
-above, dark 
-below, white
-feather, white
-eye, white

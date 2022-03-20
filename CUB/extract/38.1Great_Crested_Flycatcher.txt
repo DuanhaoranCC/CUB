@@ -1,5 +1,0 @@
-upperpart, brownish 
-underpart, yellow 
-tail, brown 
-breast, grey
-throat, grey 

@@ -1,9 +1,0 @@
-upperpart, blue
-upperpart, blue-green gloss
-underpart, greenish tint
-underpart, black 
-eye, dark brown
-entirety, pale blue-green
-entirety, spot
-entirety, olive-brown
-entirety, olive-brown spot

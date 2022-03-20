@@ -1,6 +1,0 @@
-feather, iridescent black
-bill, dark 
-iris, brown 
-iris, pale yellowish
-entirety, black
-eye, pale
